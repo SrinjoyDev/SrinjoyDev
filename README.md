@@ -200,10 +200,6 @@ Building **autonomous, multimodal, and voice-interactive agents** for real-world
     <td align="center"><b>🎧 Voice Mode</b></td>
     <td>Simulate real hiring experiences</td>
   </tr>
-  <tr>
-    <td align="center"><b>☁️ Scalable Backend</b></td>
-    <td>Next.js, Node.js, Vector DBs</td>
-  </tr>
 </table>
 
 ---
