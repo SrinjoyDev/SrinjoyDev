@@ -1,28 +1,69 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Srinjoy%20Das%20⚙️&fontAlignY=38&fontSize=50&desc=Backend%20Engineer%20%7C%20System%20Design%20Architect%20%7C%20Scalable%20Systems&descAlignY=55&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Srinjoy%20Das%20⚙️&fontAlignY=38&fontSize=50&desc=System%20Design%20Architect%20%7C%20Backend%20Engineer%20%7C%20AI%20Agent%20Engineer&descAlignY=55&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=System+Design+Lover;Passionate+Backend+Engineer;Scalable+Architectures+for+Millions;Distributed+Systems+%7C+Cloud+Infra;Reliability.+Performance.+Elegance." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=System+Design+Lover;Scalable+Backend+Engineer;Distributed+Systems+%7C+Event-driven+Architectures;AI+Agent+Engineer+%7C+RAG+%7C+Voice+Agents;Building+Kodermaster.ai+-+100x+Developer+Tool" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-> “I don’t just build backends — I architect ecosystems.”
+> “I don’t just code — I architect, scale, and automate intelligence.”
 
-I’m **Srinjoy**, a **system design enthusiast** and **backend developer** obsessed with performance, scalability, and reliability.  
-My craft revolves around designing **fault-tolerant architectures**, **distributed event-driven systems**, and **high-concurrency services** that scale to **millions of users**.
+I’m **Srinjoy**, a **system design fanatic**, **backend engineer**, and **AI agent developer**.  
+I design **high-performance distributed systems** that scale to **millions of users**, and build **autonomous AI agents** that think, act, and assist like humans.
+
+My core philosophy:  
+**Performance × Scalability × Reliability × Intelligence**
 
 ---
 
 ### 🏗️ What I Do Best
 
-- 🧩 Scalable **Microservice Architectures**  
-- ⚡ High-performance **API & Queue Systems**  
-- ☁️ **Cloud-native** backend deployment (AWS | GCP | K8s)  
-- 🧠 **Caching, Pub/Sub, and Streaming** pipelines  
-- 🧾 **Monitoring, Observability, Resilience Engineering**
+- 🧩 Architect **Microservices** and **Serverless Systems**  
+- ⚡ Design **Ultra-fast APIs** and **Asynchronous Queues**  
+- ☁️ Build **Cloud-native infrastructure** (AWS, GCP, Docker, K8s)  
+- 🔁 Engineer **Event-driven architectures** using Kafka, NATS, and Redis Streams  
+- 🧠 Develop **AI-powered Voice and Action Agents** (LiveKit + LangChain + RAG)  
+- 🔐 Implement **Observability, Monitoring, and Fault-tolerance**
+
+---
+
+### 🧬 Express.js Contributions
+
+I’ve contributed directly to **[Express.js](https://github.com/expressjs/express)** — the backbone of the Node.js ecosystem — improving **middleware error handling**, optimizing **route resolution performance**, and refining **documentation for Express 5**.  
+These contributions focused on simplifying developer ergonomics and improving scalability under concurrent request loads.
+
+---
+
+### 🤖 AI Agent Engineering
+
+My AI work focuses on building **autonomous, multimodal, and voice-interactive agents** that can handle real-world tasks.  
+Some of my AI agent projects include:
+
+- 🧩 **AI Exam Proctor:** Generates questions, evaluates answers, and builds dynamic scorecards.  
+- 🗣️ **Voice Learning Agent:** Real-time pronunciation correction, interactive topic learning via LiveKit.  
+- 🤝 **AI Meeting Bot:** Joins calls, records sessions, extracts participants, and generates summaries.  
+- 🧠 **RAG-powered Assistant:** Context-aware and self-improving over time using memory retrieval pipelines.
+
+I use **Python**, **LangChain**, **LiveKit**, **FastAPI**, and **gRPC** to craft these intelligent systems.  
+Each project focuses on *human-like decision-making* and *low-latency multimodal interactions.*
+
+---
+
+### 🚀 Building [KodeMaster.ai](https://kodemaster.ai)
+
+**KodeMaster.AI** is my flagship product — an **AI-powered interview preparation platform** for **engineering candidates** and **working professionals** who want to become the **100x developers** they dream of.
+
+🧩 **Key Features:**
+- 💬 **AI-driven Mock Interviews** — for backend, frontend, and system design rounds  
+- 🧠 **Adaptive Question Generation** — based on candidate performance  
+- 📊 **Skill Insights Dashboard** — identify weak areas, track progress  
+- 🎧 **Voice Mode Interviews** — simulate real hiring experience  
+- ☁️ **Scalable Cloud Backend** — built with Next.js, Node.js, and vector databases  
+
+The platform combines **Generative AI + System Design + Scalable Backend** into a unified ecosystem that trains developers like elite engineers.
 
 ---
 
@@ -46,11 +87,22 @@ My craft revolves around designing **fault-tolerant architectures**, **distribut
 
 ### 🌍 Open Source Contributions
 
-🧩 **Projects I've contributed to:**
-- 🏙️ [GatherTown](https://github.com/gathertown) — Virtual real-time interaction platform  
-- ⚙️ [Encore.dev](https://github.com/encoredev) — Backend framework for cloud-native systems  
-- 🧭 [Express.js](https://github.com/expressjs/express) — Core Node.js web framework  
-- 🎮 [MonoGame](https://github.com/MonoGame/MonoGame) — Game development framework  
+🧩 **Notable Repositories:**
+- 🏙️ [GatherTown](https://github.com/gathertown) — Realtime virtual interaction platform  
+- ⚙️ [Encore.dev](https://github.com/encoredev) — Cloud-native backend framework  
+- 🧭 [Express.js](https://github.com/expressjs/express) — Node.js backend framework  
+- 🎮 [MonoGame](https://github.com/MonoGame/MonoGame) — 2D/3D open-source game framework  
+
+---
+
+### 🧩 Featured Engineering Projects
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| ⚙️ [**LightningFast gRPC Server**](https://github.com/srinju/LightningFast-server-grpc) | Ultra-low latency backend built with gRPC and Go for async microservices | `Go`, `gRPC`, `Redis`, `Docker` |
+| 🧱 [**No-Code Tool**](https://github.com/srinju/no-code-tool) | Build full-stack apps visually without code | `Next.js`, `Node.js`, `React`, `Prisma` |
+| 📊 [**Web Analytics Platform**](https://github.com/srinju/web-analytics-project) | Scalable website analytics engine | `Next.js`, `Postgres`, `Express`, `Prisma` |
+| 🧠 [**CodeMaster.AI**](https://kodemaster.ai) | AI-powered interview prep tool for developers | `Next.js`, `Node.js`, `LangChain`, `Postgres`, `AI` |
 
 ---
 
@@ -68,17 +120,6 @@ My craft revolves around designing **fault-tolerant architectures**, **distribut
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinjoydas&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
-
----
-
-### 🧩 Featured Engineering Projects
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| ♻️ **Save Waste Platform** | Smart waste management & CRM system | `Next.js`, `Node.js`, `Prisma`, `Postgres`, `Xero` |
-| 🚛 **TankSafe** | IoT fuel theft monitoring platform | `Python`, `IoT`, `Flask`, `AWS` |
-| 🤖 **AI Voice Assistant** | Multi-agent voice automation system | `Python`, `LiveKit`, `RAG`, `LLM` |
-| 📈 **Web Analytics** | Scalable analytics for websites | `Next.js`, `Express`, `Prisma`, `Postgres` |
 
 ---
 
