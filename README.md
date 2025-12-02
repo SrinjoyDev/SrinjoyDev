@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">⚡ Srinjoy Das — Backend Architect | GenAI Engineer</h1>
+<h1 align="center">⚡ Srinjoy Das — Backend Developer && GenAI Engineer</h1>
 <h3 align="center">Designing scalable systems. Breaking limits. Building what's next.</h3>
 
 ---
