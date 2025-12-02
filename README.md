@@ -33,10 +33,128 @@ I love crafting software that feels *engineered*, not assembled.
 - Cloud Infra & DevOps  
 - AI workflows, agent systems, and model-oriented apps  
 
-### **Frameworks & Tools**
+## 🧩 Backend Engineering — My Full Arsenal
+
+---
+
+## 🛠️ Core Backend Frameworks & Runtimes
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,docker,redis,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=ktor" />
+  <img src="https://skillicons.dev/icons?i=rails" />
 </p>
+
+---
+
+## ⚡ Backend Languages (High-Performance)
+<p>
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=rust" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 🗄️ Databases & Storage Engines
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" />
+</p>
+
+Additional systems (no icons available, but essential):  
+**Cassandra, DynamoDB, ScyllaDB, InfluxDB, TimescaleDB, SQLite**
+
+---
+
+## 📡 API Protocols & Communication
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://img.shields.io/badge/gRPC-5C3EE8?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-0096D6?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-1C1C1C?style=for-the-badge&logo=socketdotio" />
+</p>
+
+---
+
+## 📨 Messaging, Queues & Event Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-1997B5?style=for-the-badge&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redpanda-D21F3C?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## 🏗️ System Architecture & Infra Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Istio-4669E7?style=for-the-badge&logo=istio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linkerd-00A3E0?style=for-the-badge&logo=linkerd&logoColor=white" />
+</p>
+
+---
+
+## 🐳 DevOps, Infra & Scaling
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  <img src="https://skillicons.dev/icons?i=grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" />
+</p>
+
+Extras:
+- **k6**, **Locust**, **Pulumi**, **Helm**, **ArgoCD**, **Istio**
+
+---
+
+## ☁️ Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+---
+
+## 🔐 Security Stack
+<p>
+  <img src="https://img.shields.io/badge/OAuth2-3A3A3A?style=for-the-badge&logo=openid&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON Web Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TLS-1E90FF?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashicorp Vault-000?style=for-the-badge&logo=vault&logoColor=yellow" />
+</p>
+
+---
+
+## 🧠 Observability & Reliability
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-563D7C?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-65A2E0?style=for-the-badge&logo=jaeger&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">⚡ I build backends that scale, self-heal, and never break under pressure.</h3>
+
 
 ---
 
