@@ -50,19 +50,6 @@ I love crafting software that feels *engineered*, not assembled.
 
 ---
 
-## ⚡ Backend Languages (High-Performance)
-<p>
-  <img src="https://skillicons.dev/icons?i=go" />
-  <img src="https://skillicons.dev/icons?i=rust" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=kotlin" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
 ## 🗄️ Databases & Storage Engines
 <p>
   <img src="https://skillicons.dev/icons?i=postgres" />
